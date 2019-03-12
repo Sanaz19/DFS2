@@ -1,0 +1,25 @@
+p {
+  position: fixed;                           top:10px;                  
+  left: 17px;
+  font-family: 'Kokonor';
+  font-size: 20px;
+  text-align: left;
+  column-count: 2;
+  text-indent: 2em;
+  
+}
+
+.circle {
+  position: absolute;
+  left: 165px;
+  Top:-500px;
+  width: 1000px;
+  height: 1000px;
+  line-height: 200px;
+  border-radius: 50%; 
+  margin: 0 auto 40px;
+}
+.red {
+  background-color: #e74c3c;
+}
+
